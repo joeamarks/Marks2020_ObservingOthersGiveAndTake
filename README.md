@@ -3,6 +3,8 @@ Data and code from manuscript: 'Observing Others Give &amp; Take: A Computationa
 
 ## Description of research materials
 
+Research materials for each experiment are stored in Matlab files. The experiments were coded using Cogent 2000. Participants saw instructions before each experimental block. When they were ready to begin each block, connection to MTurk was simulated via a dynamic dial-up procedure. 
+
 Debrief questionnaires are stored as PDF files.
 
 ## Description of data files
