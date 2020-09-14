@@ -3,6 +3,7 @@ Data and code from manuscript: 'Observing Others Give &amp; Take: A Computationa
 
 ## Description of research materials
 
+Debrief questionnaires are stored as PDF files.
 
 ## Description of data files
 
@@ -121,3 +122,7 @@ Column 12: Allocator type (0 = Generous, 1 = Equal, 2 = Selfish)
 ### SuspiciousSubjects2
 
 Logical variable used to exclude suspicious participants in the supplementary analysis (see Supplementary Materials and Supplementary_Analyses.m) 
+
+## Debrief Data
+
+Data from the debrief questionnaires are stored as xlsx files. Each debrief datafile links to the questions listed in the debrief questionnaire (DebriefForm)
